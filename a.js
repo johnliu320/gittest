@@ -1,0 +1,1 @@
+function sum(n,u){return n*u}sum(20,30);const x=(n,u)=>n*u;
